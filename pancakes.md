@@ -1,20 +1,22 @@
-# Granma's Pancakes
+# Granma's Space Pancakes
 
 Pancakes are delicious! Let's learn how to make them.
 
 ## ingrediënts
 
-- Eggs
+- Fake eggs
 - Flour
 - Water
 - Salt
-- Milk
-- Butter
+- Soymilk
+- Olive oil
+- Crazy Mushrooms
+- Herbs
 
 ## Preparing the batter
 
 - Combine the flour, baking powder, salt.
-- Make a well in the center and pour in the milk, egg and butter.
+- Make a well in the center and pour in the soymilk, herbs, fake eggs and olive.
 
 ## Baking the pancakes
 
@@ -22,4 +24,4 @@ Pancakes are delicious! Let's learn how to make them.
 - Poor a scoop of batter in the pan.
 - After 30 seconds, trun over the pancakes.
 - After another 30 seconds, get the pancake out of the pan.
-- Serve with tomatoes, cucumber, paprikas and vegan cheese.
+- Serve with tomatoes, cucumber, paprikas and the crazy mushrooms.
